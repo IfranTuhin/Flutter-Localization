@@ -1,0 +1,11 @@
+{
+  "@@locale": "bn",
+  "language": "বাংলা",
+  "@language": {
+    "description": "নির্বাচিত ভাষা"
+  },
+  "homePage": "হোম পেজ",
+  "helloWorld": "হ্যালো ওয়ার্ল্ড!",
+  "twoLanguages": "এই দুটো ভাষা",
+  "changeLanguages": "ভাষার পরিবর্তন"
+}
